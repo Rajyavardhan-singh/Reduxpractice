@@ -13,7 +13,7 @@ const Buttons = () => {
   const {  users } = user;
   console.log(users)
   return (
-    <Stack direction="row" spacing={4} p={2} justifyContent={"center"}>
+    <Stack direction="row" spacing={4} p={2} justifyContent={"start"}>
       <Button
         variant="contained"
         size="large"
