@@ -11,6 +11,9 @@ export const Header = () => {
         padding: "10px 20px",
         borderBottomRightRadius: "5px",
         borderBottomLeftRadius: "5px",
+        position:'sticky',
+        top:'0px',
+        zIndex:'9'
       }}
     >
       {/* <Typography
