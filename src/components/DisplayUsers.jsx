@@ -55,7 +55,7 @@ export const DisplayUsers = () => {
                 lg={4}
                 sx={{
                   maxWidth: "450px",
-                  minWidth: "450px",
+                  minWidth: "250px",
                   height: "auto",
                   padding: "30px",
                   borderRadius: "20px",
