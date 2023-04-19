@@ -16,20 +16,11 @@ export const Header = () => {
         zIndex:'9'
       }}
     >
-      {/* <Typography
-        variant="h4"
-        sx={{
-          border: "2px solid black",
-          borderRadius: "20px",
-          padding: "5px",
-        }}
-      >
-        USERLIST{" "}
-      </Typography> */}
+      
       <Button  size="large" disableRipple>
         <Typography  color={"black"} variant="h4">USERLIST </Typography>
       </Button>
-      <Box>There</Box>
+      <Box>Rajyavardhan Singh </Box>
        
     </Stack>
   );
